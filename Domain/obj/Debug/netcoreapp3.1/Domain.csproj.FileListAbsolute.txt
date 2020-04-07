@@ -1,0 +1,6 @@
+C:\Users\Marlene.ross\source\repos\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\Marlene.ross\source\repos\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Marlene.ross\source\repos\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Marlene.ross\Documents\GitHub\Concerts\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\Marlene.ross\Documents\GitHub\Concerts\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Marlene.ross\Documents\GitHub\Concerts\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
